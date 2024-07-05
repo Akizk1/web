@@ -15,6 +15,8 @@
                 <li><a href="#services">Servicios</a></li>
                 <li><a href="#about">Sobre Mí</a></li>
                 <li><a href="#contact">Contacto</a></li>
+                <li><a href="otra_pagina.html">Otra Página</a></li>
+                <li><a href="https://www.ejemplo.com" target="_blank">Ejemplo Externo</a></li>
             </ul>
         </nav>
     </header>
@@ -33,15 +35,17 @@
         </section>
         <section id="about">
             <h2>Sobre Mí</h2>
-            <p>Futuro técnico en informática con pasión por la tecnología y la reparación de dispositivos.</p>
+            <img src="mi_foto.jpg" alt="Foto de Alan Moreno" style="width:200px;height:auto;">
+            <p>Me llamo Alan Moreno. Nací el 11 de septiembre de 2005 y tengo estudios completos. Poseo una sólida experiencia en sistemas, habiéndome especializado en la reparación de dispositivos y la limpieza de ordenadores. Mi objetivo es ofrecer servicios de alta calidad para solucionar problemas técnicos y optimizar el rendimiento de los equipos de mis clientes.</p>
         </section>
         <section id="contact">
             <h2>Contacto</h2>
-            <p>Puedes contactarme a través de mi correo electrónico: <a href="mailto:alan@example.com">alan@example.com</a></p>
+            <p>Número de teléfono: 1168601602</p>
+            <p>Correo electrónico: <a href="mailto:alanmorenotw@gmail.com">alanmorenotw@gmail.com</a></p>
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Alan Moreno. Todos los derechos reservados.</p>
+        <p>&copy; 2024 Alan Moreno. Todos los derechos reservados. Contacto: <a href="mailto:alanmorenotw@gmail.com">alanmorenotw@gmail.com</a></p>
     </footer>
 </body>
 </html>
